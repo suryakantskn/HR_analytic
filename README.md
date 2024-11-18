@@ -30,7 +30,7 @@ HR teams can use its capabilities to make smart decisions and effectively manage
 
 ## DASHBOARD :
 
-![Dashboard](https://github.com/AkashParashar1/HR-ANALYTICS-DASHBOARD---POWER-BI/assets/137527458/65b38776-c085-419a-8616-07a7ff7818b1)
+![Dashboard]("C:\Users\surya\OneDrive\Pictures\Screenshots\Screenshot 2024-11-18 152827.png")
 
 ## DASHBOARD CONTENT :
 
