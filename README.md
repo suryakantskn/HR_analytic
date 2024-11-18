@@ -30,7 +30,7 @@ HR teams can use its capabilities to make smart decisions and effectively manage
 
 ## DASHBOARD :
 
-![image alt]("C:\Users\surya\OneDrive\Pictures\Screenshots\Screenshot 2024-11-18 152827.png")
+![image alt](https://github.com/suryakantskn/HR_analytic/blob/suryakantskn-patch-1/Screenshot%202024-11-18%20152827.png)
 
 ## DASHBOARD CONTENT :
 
